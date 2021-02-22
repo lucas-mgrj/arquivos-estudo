@@ -1,0 +1,7 @@
+Name: Maria | Age: 45
+Name: João | Age:  33
+Name: Pedro | Age:  63
+Name: Ana | Age:  21
+Name: Bia | Age:  40
+Name: Carlos | Age:  14
+Name: Vitor | Age:  12
